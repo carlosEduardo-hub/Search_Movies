@@ -59,3 +59,5 @@ npm run dev
 # ou
 yarn dev
 ```
+### Acesso ao deploy da aplicação no link a seguir
+https://search-movies-einj1f71n-carlos-eduardo-mendes-projects.vercel.app/
